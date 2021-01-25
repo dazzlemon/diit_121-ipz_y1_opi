@@ -1,0 +1,5 @@
+﻿  OPI3.cpp
+  battleships.cpp
+D:\1uno1\diit\year1\year1_semester2\WIP\OPI_Lr3\OPI3\battleships.cpp(91,43): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  OPI3.vcxproj -> D:\1uno1\diit\year1\year1_semester2\WIP\OPI_Lr3\OPI3\Debug\OPI3.exe

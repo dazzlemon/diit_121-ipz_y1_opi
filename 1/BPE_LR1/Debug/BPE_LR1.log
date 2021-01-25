@@ -1,0 +1,31 @@
+﻿  BPE_LR1.cpp
+D:\1uno1\diit\year1\year1_semester2\Done\BasicsOfProgrammingEngineeringLR1\BPE_LR1\matrix.h(34,16): warning C4244: 'initializing': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+D:\1uno1\diit\year1\year1_semester2\Done\BasicsOfProgrammingEngineeringLR1\BPE_LR1\BPE_LR1.cpp(31): message : see reference to function template instantiation 'void genMatrix<double>(T **,int,int)' being compiled
+          with
+          [
+              T=double
+          ]
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\chrono(632): message : see reference to class template instantiation 'std::chrono::duration<double,std::ratio<1,1>>' being compiled
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\chrono(178): message : see reference to class template instantiation 'std::chrono::duration<__int64,std::nano>' being compiled
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\chrono(610): message : see reference to class template instantiation 'std::chrono::time_point<std::chrono::steady_clock,std::chrono::nanoseconds>' being compiled
+D:\1uno1\diit\year1\year1_semester2\Done\BasicsOfProgrammingEngineeringLR1\BPE_LR1\matrix.h(100,46): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=double
+          ]
+D:\1uno1\diit\year1\year1_semester2\Done\BasicsOfProgrammingEngineeringLR1\BPE_LR1\matrix.h(108): message : see reference to function template instantiation 'bool columnElementsDuplicateDigits<T>(T **,int,int)' being compiled
+          with
+          [
+              T=double
+          ]
+D:\1uno1\diit\year1\year1_semester2\Done\BasicsOfProgrammingEngineeringLR1\BPE_LR1\BPE_LR1.cpp(40): message : see reference to function template instantiation 'void exercise<double>(T **,int,int)' being compiled
+          with
+          [
+              T=double
+          ]
+D:\1uno1\diit\year1\year1_semester2\Done\BasicsOfProgrammingEngineeringLR1\BPE_LR1\matrix.h(98,4): warning C4101: 'currentElement': unreferenced local variable
+  BPE_LR1.vcxproj -> D:\1uno1\diit\year1\year1_semester2\Done\BasicsOfProgrammingEngineeringLR1\BPE_LR1\Debug\BPE_LR1.exe

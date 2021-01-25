@@ -1,0 +1,24 @@
+﻿  MyForm.cpp
+D:\1uno1\diit\year1\year1_semester2\WIP\OPI_Lr6\opi6\matrix.h(34,16): warning C4244: 'initializing': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+D:\1uno1\diit\year1\year1_semester2\WIP\OPI_Lr6\opi6\MyForm.cpp(58): message : see reference to function template instantiation 'void genMatrix<int>(T **,int,int)' being compiled
+          with
+          [
+              T=int
+          ]
+D:\1uno1\diit\year1\year1_semester2\WIP\OPI_Lr6\opi6\matrix.h(98,4): warning C4101: 'currentElement': unreferenced local variable
+D:\1uno1\diit\year1\year1_semester2\WIP\OPI_Lr6\opi6\matrix.h(108): message : see reference to function template instantiation 'bool columnElementsDuplicateDigits<T>(T **,int,int)' being compiled
+          with
+          [
+              T=int
+          ]
+D:\1uno1\diit\year1\year1_semester2\WIP\OPI_Lr6\opi6\MyForm.cpp(69): message : see reference to function template instantiation 'void exercise<int>(T **,int,int)' being compiled
+          with
+          [
+              T=int
+          ]
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  opi6.vcxproj -> D:\1uno1\diit\year1\year1_semester2\WIP\OPI_Lr6\opi6\Debug\opi6.exe

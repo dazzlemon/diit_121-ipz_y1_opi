@@ -1,0 +1,5 @@
+D:\1uno1\diit\year1\year1_semester2\WIP\OPI_Lr6\opi6\Debug\opi6.vcxprojAssemblyReference.cache
+D:\1uno1\diit\year1\year1_semester2\WIP\OPI_Lr6\opi6\Debug\opi6.exe
+D:\1uno1\diit\year1\year1_semester2\WIP\OPI_Lr6\opi6\Debug\opi6.pdb
+D:\1uno1\diit\year1\year1_semester2\WIP\OPI_Lr6\opi6\Debug\opi6.MyForm.resources
+D:\1uno1\diit\year1\year1_semester2\WIP\OPI_Lr6\opi6\Debug\opi6.vcxproj.GenerateResource.cache
